@@ -1,0 +1,2 @@
+# InfoCollec
+Resource information
